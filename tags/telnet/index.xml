@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Telnet on Blog - 0z3etxh</title>
+    <link>/tags/telnet/</link>
+    <description>Recent content in Telnet on Blog - 0z3etxh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/telnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HackTheBox - Redeemer</title>
+      <link>/posts/redeemer/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/redeemer/</guid>
+      <description>Vamos a estar resolviendo la maquina numero 4 del starting point, (tier 0).
+Esta corre con redis database, El nombre Redis proviene de las iniciales de Remote Dictionary Server (servidor de diccionario remoto), un tipo de servidor apto como memoria rápida para datos.
+Task 1. &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&amp;gt; Which TCP port is open on the machine? ¿Qué puerto TCP está abierto en la máquina?
+Realicemos el escaneo con nmap a la maquina victima:</description>
+    </item>
+    
+    <item>
+      <title>HackTheBox - Dancing</title>
+      <link>/posts/dancing/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dancing/</guid>
+      <description>Vamos a estar completando la tercera maquina del starting point.
+En esta vamos a estar tocando el protocolo SMB (Server Message Block) es un protocolo cliente / servidor que gobierna el acceso a archivos y directorios completos, así como a otros recursos de red como impresoras, enrutadores o interfaces abiertas a la red.
+Task 1. &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&amp;gt; What does the 3-letter acronym SMB stand for? ¿Qué significa el acrónimo de 3 letras SMB?</description>
+    </item>
+    
+    <item>
+      <title>HackTheBox - Meow</title>
+      <link>/posts/meow/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/meow/</guid>
+      <description>Primer Articulo del Blog, voy a estar completando todas las maquinas FREE del starting point de hackthebox.
+Esta es la primera maquina del starting point, voy a explicar los pasos que yo segui para completarla y ganar acceso a la maquina.
+Task 1. &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&amp;gt; What does the acronym VM stand for? ¿Qué significa el acrónimo VM?
+Esto hace Referencia a:
+Virtual Machine En español significa Maquina Virtual, este es un entorno que utlizamos para virtualizar algun sistema operativo.</description>
+    </item>
+    
+  </channel>
+</rss>

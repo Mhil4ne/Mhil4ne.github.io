@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FTP on Blog - 0z3etxh</title>
+    <link>/tags/ftp/</link>
+    <description>Recent content in FTP on Blog - 0z3etxh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ftp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HackTheBox - Fawn</title>
+      <link>/posts/fawn/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fawn/</guid>
+      <description>Segunda maquina del starting Point.
+Explicacion paso por paso, para ganar acceso a la maquina fawn de dificultad Very Easy.
+En esta maquina vamos a estar tocando el protocolo FTP (File Transfer Protocol)
+Task 1. &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-&amp;gt; What does the 3-letter acronym FTP stand for? ¿Qué significa el acrónimo de 3 letras FTP?
+File Transfer Protocol Las siglas de FTP significan File Transfer Protocol, que se traduce como Protocolo de Transferencia de Archivos.</description>
+    </item>
+    
+  </channel>
+</rss>

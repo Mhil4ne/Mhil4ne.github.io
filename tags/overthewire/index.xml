@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>OverTheWire on Mhil4ne</title>
+        <link>/tags/overthewire/</link>
+        <description>Recent content in OverTheWire on Mhil4ne</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/overthewire/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Scripting en Bash - OverTheWire (bandit)</title>
+        <link>/posts/scriptingenbash/</link>
+        <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>/posts/scriptingenbash/</guid>
+        <description>En este articulos vamos a completar los desafios que nos ofrece la pagina OverTheWire (bandit), esto con el objetivo de aprender el lenguaje Bash, desde lo mas basico a algo mas avanzado.
+Que es Bash? El Lenguaje de scripting bash es simplemente la interfaz de comandos que usamos en linux (terminal).
+Conexion SSH (Bandit) Lo primero que vamos a hacer es conectarnos a los desafios de la pagina mediante el servicio SSH.</description>
+        </item>
+        
+    </channel>
+</rss>
