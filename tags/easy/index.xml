@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Easy on Mhil4ne</title>
-        <link>/tags/easy/</link>
-        <description>Recent content in Easy on Mhil4ne</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/easy/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>VulnHub - HA: Natraj</title>
-        <link>/posts/natraj/</link>
-        <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-        
-        <guid>/posts/natraj/</guid>
-        <description>Proximamente</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Easy on Mhil4ne</title><link>/tags/easy/</link><description>Recent content in Easy on Mhil4ne</description><image><title>Mhil4ne</title><url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url><link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link></image><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/easy/index.xml" rel="self" type="application/rss+xml"/><item><title>HackTheBox - Soccer</title><link>/posts/soccer/</link><pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate><guid>/posts/soccer/</guid><description>En este articulo vamos a estar resolviendo la maquina soccer de HTB.
+Comprobamos conexion con la maquina victima:
+❯ ping -c 1 10.10.11.194 PING 10.10.11.194 (10.10.11.194) 56(84) bytes of data. 64 bytes from 10.10.11.194: icmp_seq=1 ttl=63 time=81.0 ms --- 10.10.11.194 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms rtt min/avg/max/mdev = 81.018/81.018/81.018/0.000 ms Vamos a realizar nuestro escaneo con nmap:
+❯ nmap 10.10.11.194 Nmap scan report for 10.</description></item></channel></rss>
